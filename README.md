@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## Im Juan Pablo Donalisio, a passionate software developer
 
-- 🔭 I’m currently working on **Pagos360**
 - 🌱 I’m currently learning **Serverless Services on AWS**
 
 <div align="center">
