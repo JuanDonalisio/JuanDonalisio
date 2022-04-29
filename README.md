@@ -1,5 +1,4 @@
-### Hi there 👋
-## Im Juan Pablo Donalisio, a passionate software developer
+### Hi there 👋 Im Juan Pablo Donalisio
 
 - 🌱 I’m currently learning **Serverless Services on AWS**
 
