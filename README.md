@@ -1,6 +1,6 @@
 ### Hi there 👋 Im Juan Pablo Donalisio
 
-- 🌱 I’m currently learning **Serverless Services on AWS**
+- 🌱 I’m currently learning **AWS Services**
 
 <div align="center">
   <a href="https://github.com/JuanDonalisio">
