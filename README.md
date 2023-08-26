@@ -12,20 +12,18 @@ I'm Juanpa, a 23 years old software developer from Argentina.
 * 💡 Backend Stack
 <br>
 <div style="display: inline-block;">
-  <img width="40" height="40" src="assets\back\nodeJs.png" />
-  <img width="40" height="40" src="assets\back\sequelize.png" />
-  <img width="40" height="40" src="assets\back\vsc.png" />
-  <img width="40" height="40" src="assets\back\nodeJs.png" />
-<div>
-<div style="display: inline-block;">
   <img width="40" height="40" src="assets\back\python.png" />
   <img width="40" height="40" src="assets\back\numpy.png" />
-  <img width="40" height="40" src="assets\back\numpy.png" />
+  <img width="40" height="40" src="assets\back\pandas.png" />
   <img width="40" height="40" src="assets\back\pycharm.png" />
 <div>
 <div style="display: inline-block;">
+  <img width="40" height="40" src="assets\back\nodeJs.png" />
+  <img width="40" height="40" src="assets\back\sequelize.png" />
+  <img width="40" height="40" src="assets\back\vsc.png" />
+<div>
+<div style="display: inline-block;">
   <img width="40" height="40" src="assets\back\go.png" />
-  <img width="40" height="40" src="assets\aws\API Gateway.png" />
 <div>
 <div style="display: inline-block;">
   <img width="40" height="40" src="assets\back\postman.png" />
@@ -59,8 +57,7 @@ I'm Juanpa, a 23 years old software developer from Argentina.
 <br>
 <div style="display: inline-block;">
   <img width="40" height="40" src="assets\db\firebase.png" />
-  <img width="40" height="40" src="assets\db\firebase.png" />
-  <img width="40" height="40" src="assets\db\firebase.png" />
+  <img width="40" height="40" src="assets\db\mongodb.png" />
 <div>
 <div style="display: inline-block;">
   <img width="40" height="40" src="assets\db\mysql.png" />
