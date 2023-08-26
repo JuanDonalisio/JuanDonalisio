@@ -4,7 +4,7 @@
 
 I'm Juanpa, a 23 years old software developer from Argentina.
 
-<p><em>Software Enginner at <a href="https://utn.edu.ar/es/">Technological University of Cordoba </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.pagos360.com/">Pagos360 </a><img src="assets\others\18384738.png" width="15"> 
+<p><em>Software Enginner at <a href="https://utn.edu.ar/es/">Technological University of Cordoba </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.pagos360.com/">Pagos360 </a><img src="assets\others\18384738.png" width="25"> 
 </em></p>
 
 ## Skills
