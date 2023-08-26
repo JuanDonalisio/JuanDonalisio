@@ -17,7 +17,17 @@ I'm Juanpa, a 23 years old software developer from Argentina.
 <br>
 * ☁️ AWS Stack
 <div style="display: inline-block;">
-
+  <img width="40" height="40" src="assets\aws\API Gateway.png" />
+  <img width="40" height="40" src="assets\aws\EventBridge.png" />
+  <img width="40" height="40" src="assets\aws\CloudWatch.png" />
+  <img width="40" height="40" src="assets\aws\Simple Notification Service.png" />
+  <img width="40" height="40" src="assets\aws\Simple Queue Service.png" />
+  <img width="40" height="40" src="assets\aws\Step Functions.png" />
+  <img width="40" height="40" src="assets\aws\Systems Manager.png" />
+  <img width="40" height="40" src="assets\aws\Lambda.png" />
+  <img width="40" height="40" src="assets\aws\EC2.png" />
+  <img width="40" height="40" src="assets\aws\DynamoDB.png" />
+  <img width="40" height="40" src="assets\aws\RDS.png" />
 </div>
 
 <br>
