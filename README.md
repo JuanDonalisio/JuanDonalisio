@@ -4,18 +4,18 @@
 
 I'm Juanpa, a 23 years old software developer from Argentina.
 
-<p><em>Software Enginner at <a href="https://utn.edu.ar/es/">Technological University of Cordoba</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.pagos360.com/">Pagos360</a><img src="assets\others\18384738.png" width="30"> 
+<p><em>Software Enginner at <a href="https://utn.edu.ar/es/">Technological University of Cordoba </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.pagos360.com/">Pagos360 </a><img src="assets\others\18384738.png" width="15"> 
 </em></p>
 
 ## Skills
 <br>
-* Backend Stack
+* 💡 Backend Stack
 <div style="display: inline-block;">
 
 <div>
 
 <br>
-* AWS Stack
+* ☁️ AWS Stack
 <div style="display: inline-block;">
 
 </div>
@@ -27,13 +27,13 @@ I'm Juanpa, a 23 years old software developer from Argentina.
   <div>
 
 <br>
-* Data Science Stack
+* 🔬 Data Science Stack
 <div style="display: inline-block;">
 
 </div>
 
 <br>
-* Frontend Stack
+* 🖌️ Frontend Stack
 <div style="display: inline-block;">
 
 <div>
