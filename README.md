@@ -2,57 +2,10 @@
 
 <img align="right" alt="Rafa-pic" height="150" style="border-radius: 50px 20px;" src="https://c.tenor.com/y_7uVd2lqkMAAAAC/dog-wink.gif">
 
-I'm Juanpa, software developer passionate about solving problems and creating efficient solutions 💻
+Software developer passionate about solving problems and creating efficient solutions 💻
 
-<p><em>Software Enginner at <a href="https://utn.edu.ar/es/">Technological University of Cordoba </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.pagos360.com/">Pagos360
+<p><em>Software Enginner at <a href="https://utn.edu.ar/es/">Technological University of Cordoba </a></br>Software Developer at <a href="https://www.pagos360.com/">Pagos360
 </em></p>
-
-## Skills
-* 💡 Backend Stack
-<div style="display: inline-block;">
-  <img width="40" height="40" src="assets\back\python.png" />
-  <img width="40" height="40" src="assets\back\numpy.png" />
-  <img width="40" height="40" src="assets\back\pandas.png" />
-  <img width="40" height="40" src="assets\back\pycharm.png" />
-  <img width="40" height="40" src="assets\back\nodeJs.png" />
-  <img width="40" height="40" src="assets\back\sequelize.png" />
-  <img width="40" height="40" src="assets\back\vsc.png" />
-  <img width="40" height="40" src="assets\back\postman.png" />
-  <img width="40" height="40" src="assets\back\git.png" />
-  <img width="40" height="40" src="assets\back\cmd.png" />
-<div>
-<br>
-
-* ☁️ AWS Stack
-<div style="display: inline-block;">
-  <img width="40" height="40" src="assets\aws\API Gateway.png" />
-  <img width="40" height="40" src="assets\aws\EventBridge.png" />
-  <img width="40" height="40" src="assets\aws\CloudWatch.png" />
-  <img width="40" height="40" src="assets\aws\Simple Notification Service.png" />
-  <img width="40" height="40" src="assets\aws\Simple Queue Service.png" />
-  <img width="40" height="40" src="assets\aws\Step Functions.png" />
-  <img width="40" height="40" src="assets\aws\Systems Manager.png" />
-  <img width="40" height="40" src="assets\aws\Lambda.png" />
-  <img width="40" height="40" src="assets\aws\EC2.png" />
-  <img width="40" height="40" src="assets\aws\DynamoDB.png" />
-  <img width="40" height="40" src="assets\aws\RDS.png" />
-</div>
-<br>
-
-* 🌱 Database Stack
-<div style="display: inline-block;">
-  <img width="40" height="40" src="assets\db\firebase.png" />
-  <img width="40" height="40" src="assets\db\mongodb.png" />
-  <img width="40" height="40" src="assets\db\mysql.png" />
-  <img width="40" height="40" src="assets\db\postgres.png" />
-<div>
-<br>
-
-* 🖌️ Frontend Stack
-<div style="display: inline-block;">
-
-<div>
-<br>
 
 ## Contact
 
