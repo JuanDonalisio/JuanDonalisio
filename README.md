@@ -4,7 +4,7 @@
 
 Software developer passionate about solving problems and creating efficient solutions 💻
 
-<p><em>Software Enginner at <a href="https://utn.edu.ar/es/">Technological University of Cordoba </a></br>Software Developer at <a href="https://www.pagos360.com/">Pagos360
+<p><em>Software Enginner at <a href="https://utn.edu.ar/es/">Technological University of Cordoba </a>
 </em></p>
 
 ## Contact
