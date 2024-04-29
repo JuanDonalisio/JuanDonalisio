@@ -1,5 +1,3 @@
-## Hey! 👋
-
 <img align="right" alt="Rafa-pic" height="150" style="border-radius: 50px 20px;" src="https://c.tenor.com/y_7uVd2lqkMAAAAC/dog-wink.gif">
 
 Software developer passionate about solving problems and creating efficient solutions 💻
