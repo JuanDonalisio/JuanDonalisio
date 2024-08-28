@@ -2,7 +2,7 @@
 
 Software developer passionate about solving problems and creating efficient solutions 💻
 
-<p><em>Software Enginner currently working at <a href="https://www.cortelcopr.com/">Cortelco System Puerto Rico </a>
+<!--<p><em>Software Enginner currently working at <a href="https://www.cortelcopr.com/">Cortelco System Puerto Rico </a>-->
 </em></p>
 
 <br> </br> 
